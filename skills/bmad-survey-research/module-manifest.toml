@@ -1,0 +1,4 @@
+module = "survey-debate"
+version = "0.1.0"
+update_source = "github:VieHung/BMAD-METHOD/skills"
+knowledge = "`references/help.md` in the `bmad-survey` skill"
