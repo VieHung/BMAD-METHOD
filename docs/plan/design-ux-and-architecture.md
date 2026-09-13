@@ -2,7 +2,7 @@
 title: 'Design UX and Architecture'
 description: When UX and architecture work is necessary, and how documented decisions stop agents and epics from implementing a system in conflicting ways.
 sidebar:
-  order: 6
+  order: 7
 ---
 
 Use this page to decide whether a change needs UX or architecture work before

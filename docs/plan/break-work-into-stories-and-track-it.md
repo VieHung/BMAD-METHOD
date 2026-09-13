@@ -2,7 +2,7 @@
 title: 'Break Work into Stories and Track It'
 description: Turn a spec or PRD into implementable stories, gate readiness, generate sprint tracking, view status, and repair the tracking file when it drifts.
 sidebar:
-  order: 7
+  order: 8
 ---
 
 Use this page to turn a plan into stories you can build in one session and

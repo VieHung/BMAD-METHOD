@@ -318,6 +318,16 @@ export default defineConfig({
               slug: 'plan/research-a-decision',
             },
             {
+              label: 'Run a Knowledge Survey',
+              translations: {
+                'vi-VN': 'Chạy một khảo sát kiến thức',
+                'zh-CN': '进行知识综述',
+                'fr-FR': 'Mener une revue de connaissances',
+                'cs-CZ': 'Provést přehled znalostí',
+              },
+              slug: 'plan/run-a-knowledge-survey',
+            },
+            {
               label: 'Define Requirements and a Specification',
               translations: {
                 'vi-VN': 'Xác định yêu cầu và đặc tả',

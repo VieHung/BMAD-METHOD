@@ -2,7 +2,7 @@
 title: 'Define Requirements and a Specification'
 description: Choose between a succinct spec and the full product-planning path — product brief or PRFAQ, then a PRD — and know what each produces.
 sidebar:
-  order: 5
+  order: 6
 ---
 
 Use this page to pick the requirements skill for the work in front of you: a
