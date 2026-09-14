@@ -17,12 +17,15 @@ The focused skills use the same artifact contracts:
 - `bmad-survey-synthesize` renders adjudicated claims into the report.
 - `bmad-survey-debate` pressure-tests an existing draft or claim ledger.
 - `bmad-survey-update` incorporates new evidence without losing provenance.
+- `bmad-survey-graph` exports the adjudicated survey as a low-density Obsidian graph organized around decision-relevant clusters.
 
 For a new topic, start with `bmad-survey`. Use a focused skill only when the
 user requests that stage or already has the required input artifact. Use
 `bmad-survey-debate` to audit a draft without rebuilding the full survey. Use
 `bmad-survey-update` when a structured workspace already exists and the user
 wants to add sources, change the as-of date, or reassess affected conclusions.
+Invoke the `bmad-survey-graph` skill when the user wants an Obsidian map after
+the survey has an adjudicated workspace.
 
 Forced termination is not consensus. A report stays blocked when central claims
 lack inspected evidence, benchmark comparisons are materially incompatible, or
